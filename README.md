@@ -1,2 +1,3 @@
 # Introduction-to-Julia
-Learn the language basics in this 10-part course
+
+My solutions to the "Introduction-to-Julia" course from Julia Academy.
