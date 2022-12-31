@@ -1,5 +1,5 @@
 #=
-A short exercise on (immutable) structs for a veterinary clinic
+A short exercise on (mutable) structs for a veterinary clinic
 =#
 
 mutable struct Pet
